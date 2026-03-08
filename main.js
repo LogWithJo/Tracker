@@ -239,7 +239,7 @@ AddHabitButton.onclick = () => {
 				onclick="AchieveHabit(${HabitCounter})"
 				id="BtnBg${HabitCounter}"
               >
-                check in today
+                Check in today
               </div>
             </div>`;
 	document.getElementById("HabitInput").value = "";
