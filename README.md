@@ -1,6 +1,6 @@
-# Food Store Page
+# Tracker App
 
-A simple browser-based online food store page built with vanilla JavaScript.
+A simple browser-based habit and task tracker built with vanilla JavaScript.
 
 ![App screenshot](./preview.png)
 
@@ -13,20 +13,23 @@ A simple browser-based online food store page built with vanilla JavaScript.
 
 This was one of my mini projects in my JavaScript learning roadmap.
 
-Finally I can say this project is the first semi-real project in my learning roadmap it has two sections habits and tasks ( later i built a specific task management with Typescript ) this was the first version you can find ع غير عادتي a simple and calm UI with the same and suitable colors for visual calm
+Finally, I can say this project was my first semi-real project. It included two sections: **Habits** and **Tasks**. Later, I created a dedicated task management app using TypeScript, but this project was the first version of that idea.
 
-Still, I like this project because it feels like my first semi-real JavaScript project. At that point I was still learning the basics of architecture and project planning, but finishing it gave me the feeling that I had actually built something.
+You can find — unlike my usual style 😅 — a simple and calm UI with consistent colors designed to feel visually comfortable.
 
-Every Project I say "Still, I like this project because it feels like my first semi-real JavaScript project" but this project i don't remember that i build it actually 🤣🤣🤣
+I still like this project because at that point I was learning the basics of project architecture and planning, and finishing it made me feel like I had actually built something meaningful.
+
+Also, I keep saying *"this feels like my first semi-real project"* in every README... but with this one, I honestly don't even remember building it 🤣🤣
 
 ---
 
 ## Features
 
-* RAdd/Remove/Check Task
-* Validation for duplicated tasks
-* habit chek in daily
-But it is static because at this time I didn't learn time in js yet but you can find this feature in my to-do tracker built with ts
+* Add / Remove / Complete tasks
+* Validation for duplicate tasks
+* Daily habit check-in system
+
+The habit tracking feature is static because at that time I hadn't learned how to work with time and dates in JavaScript yet. Later I implemented a better version in my TypeScript To-Do Tracker project.
 
 ---
 
@@ -68,9 +71,8 @@ Open the live version here:
 
 ## What I Learned
 
-* Don't merge **Two Ideas in one Project**
-* The importance of calm UI in user usage
-
-
+* Don't merge multiple ideas into one project
+* The importance of simple and calm UI design
+* Basic project planning and structure
 
 > Getting 1 percent better every day counts for a lot in the long run.
